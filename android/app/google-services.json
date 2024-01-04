@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944298613821",
+    "project_id": "rn-carrotsell-users",
+    "storage_bucket": "rn-carrotsell-users.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944298613821:android:3587c23612022ba6fbde54",
+        "android_client_info": {
+          "package_name": "com.carrotsell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944298613821-g594peueiqhjj8l3d794k8vra3cttpe6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPnGzVHM-F19tmS--Hwa6hyvgEG-AuB2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944298613821-g594peueiqhjj8l3d794k8vra3cttpe6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
